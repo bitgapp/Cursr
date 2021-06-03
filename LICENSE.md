@@ -1,0 +1,3 @@
+Copyright (c) 2021 Bitgapp Ltd, all rights reserved.
+
+Cursr is licensed, not sold, therefore any and all copies of Cursr are owned by Bitgapp. This agreement only gives user some rights to use the software as expressly permitted in [EULA](www.cursr.app/eula). Bitgapp reserves all other rights. With exception to open-source components, Bitgapp will at all times retain ownership of the project and its associated documents. Cursr (and the copyright, and other intellectual property rights of whatever nature in the project, including any modifications made to it) are and shall remain the property of Bitgapp.
