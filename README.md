@@ -9,4 +9,7 @@ This repository is used for publishing Cursr releases, creating issues and discu
 
 ## Support
 
-For support and/or discussions you can open an issue in this repository or leave a message in [Cursr Discord](https://discord.gg/jzuXJxYaHW) server
+For support and/or discussions you can
+* open an issue in this repository
+* leave a message in [Cursr Discord](https://discord.gg/jzuXJxYaHW) server
+* send email to contact@cursr.app
