@@ -71,3 +71,4 @@ These might fit in at some point in first half of 2022 or would be done/looked i
 * Allow changing display layout from withing the app instead of having to open display settings of the operating system
 * Look into allowing to change/adjust cursor speed size on different resolution screens (seems to be mostly relevant to Linux users)
 * If there will be enough interest/requests - open source free tier source code
+
