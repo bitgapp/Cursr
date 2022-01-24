@@ -45,19 +45,13 @@ For support, feature requests and discussions you can
 
 > The Roadmap migh be affected by any new issues/bugs if they will occur.
 
-### Nearest month or two
-
-My current work and priority is resolving any performance issues and optimizing Cursr application, as especially on OSX it tends to consume more CPU than it should. I'm planning to make a release with some if not all performance fixes by end of 2021 or at early start of 2022.
-
-Create separate ARM build of macOS with M1 chip and create package build for Linux users.
-
-Secondary/Background focus is improving SEO and discoverability of Cursr site, initially Cursr was not advertised or SEO optimized to first gather a small user base and resolve any bugs, as Cursr is now much more stable, I am working on improving it's discoverability and potentially marketing.
-
 ### First half of 2022
 
-Add early subscription and most importantly Perpetual license (Lifetime access to purchased (and obviously free tier) features and updates to those features, but would not include features that come out later (after defined time - likely a year) of buying the license).
+Add yearly subscription and most importantly Perpetual license (Lifetime access to purchased (and obviously free tier) features and updates to those features, but would not include features that come out later (after defined time - likely a year) of buying the license).
 
 Virtual KVM for sharing mouse and keyboard, additional features like touchpad gesture usage across all devices, file sharing and other might come at later time depending on how much time it will take to develop mouse and keyboard sharing. KVM will also come with display identification graphics and potentially allow users to move display around in Cursr.
+
+Secondary/Background focus is further improving Cursr performance, as well as improving SEO and discoverability of Cursr site, initially Cursr was not advertised or SEO optimized to first gather a small user base and resolve any bugs, as Cursr is now much more stable, I am working on improving it's discoverability and potentially marketing.
 
 ### Other
 
