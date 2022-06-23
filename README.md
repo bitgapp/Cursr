@@ -39,17 +39,18 @@ For support, feature requests and discussions you can
 
 * Virtual KVM - Connect multiple devices using Cursr allowing you to create links between displays of connected devices, interchangeably use mouse and/or keyboard from either of the devices to control all connected devices, share files and keyboard, use touchpad gestures of the OS touchpad belongs too across all devices and more.
 * Shortcuts to control cursor allowing you to create key bindings to move cursor to specific position on screen or completely control cursor/mouse with keyboard
-* Cloud Sync - Sync your preferences and setups across all your devices instead of having to make changes or create setups from scratch on all devices
 
 # Roadmap - What's next?
 
 > The Roadmap migh be affected by any new issues/bugs if they will occur.
 
-### First half of 2022
+### Second half of 2022
 
-Add yearly subscription and most importantly Perpetual license (Lifetime access to purchased (and obviously free tier) features and updates to those features, but would not include features that come out later (after defined time - likely a year) of buying the license).
+Some improvements of using Cursr around/near edges.
 
 Virtual KVM for sharing mouse and keyboard, additional features like touchpad gesture usage across all devices, file sharing and other might come at later time depending on how much time it will take to develop mouse and keyboard sharing. KVM will also come with display identification graphics and potentially allow users to move display around in Cursr.
+
+Potentially add in some of the shortcuts to control cursor before or together with the release of Virtual KVM.
 
 Secondary/Background focus is further improving Cursr performance, as well as improving SEO and discoverability of Cursr site, initially Cursr was not advertised or SEO optimized to first gather a small user base and resolve any bugs, as Cursr is now much more stable, I am working on improving it's discoverability and potentially marketing.
 
