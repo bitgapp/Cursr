@@ -56,7 +56,7 @@ Secondary/Background focus is further improving Cursr performance, as well as im
 
 ### Other
 
-These might fit in at some point in first half of 2022 or would be done/looked into later in likely priority of top to bottom
+These might fit in at some point in 2022 or would be done/looked into later in likely priority of top to bottom
 
 * Make Cursr available on Mac App Store, Windows Store and Snap Store (Linux)
 * Draw overlay/preview of borders, segments and links over the top of whole screens
