@@ -23,6 +23,7 @@ If applicable, add screenshots to help explain your problem.
 
 ### Your Environment
  - OS details: [e.g. Windows 10 x64]
- - Cursr Version [e.g. 1.0.0]
+ - Cursr Version: [e.g. 1.0.0]
+ - License: [e.g. Pro/Free] (Important in some cases because Pro has a different internal state compared to Free version)
 
 ### Additional Context
