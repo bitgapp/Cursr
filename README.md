@@ -4,6 +4,8 @@
 
 <img src="assets/github_banner.jpg" width="100%"/>
 
+# [OUT OF DATE] Roadmap update coming soon
+
 # Info
 
 Cursr is a cross-platform utility application for optimizing mouse movements by creating custom links/portals between borders in a multiple display setup, but can also be useful to some with a single display setup. It was initially created to solve issue of mouse getting stuck on edges between 2 screens with different resolution as other existing solutions were not working as expected and/or did not provide nice user experience. Currently Cursr is being continuously developed to further improve and add ways of using mouse in more efficient ways, next major feature being Virtual KVM allowing to use one mouse and keyboard for multiple devices as well as share files and more.
