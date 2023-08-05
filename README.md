@@ -46,7 +46,7 @@ For support, feature requests and discussions you can
 
 * Bug fixes currently affecting users
 * Feature to prevent mouse crossing a border when it's undesired, example when trying to move window to edge or click a button close to display edge
-* Performance imporvements
+* Performance improvements
 * More UI customization options
 * Shortcuts to control cursor allowing you to create key bindings to move cursor to specific position on screen or completely control cursor/mouse with keyboard
 * Setups usage optimizations
