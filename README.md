@@ -4,11 +4,11 @@
 
 <img src="assets/github_banner.jpg" width="100%"/>
 
-# [OUT OF DATE] Roadmap update coming soon
+# Last update: 2023 Aug 05
 
 # Info
 
-Cursr is a cross-platform utility application for optimizing mouse movements by creating custom links/portals between borders in a multiple display setup, but can also be useful to some with a single display setup. It was initially created to solve issue of mouse getting stuck on edges between 2 screens with different resolution as other existing solutions were not working as expected and/or did not provide nice user experience. Currently Cursr is being continuously developed to further improve and add ways of using mouse in more efficient ways, next major feature being Virtual KVM allowing to use one mouse and keyboard for multiple devices as well as share files and more.
+Cursr is a cross-platform utility application for optimizing mouse movements between displays and multiple devices by creating custom links/portals between borders in a multiple display and device setups, but can also be useful to some with a single display setup. It was initially created to solve issue of related to using inputs like mouse across multiple displays, but now it also includes keyboard and clipboard sharing for multiple device users. Cursr was created because other existing solutions in the market did not work for me and there had to be more people that were also looking for better solution.
 
 Cursr is created and developed by a single developer full-time without any funding, therefore purchase of Cursr not only gives you access to advanced (Pro) features, but it also greatly supports the project and makes it sustainable for the developer to keep working on it full-time, meaning you'll get updates with new features and any bugs/issues fixed.
 
@@ -34,38 +34,37 @@ For support, feature requests and discussions you can
 * Save setups for different display layouts and let Cursr auto-select best matching setup when application starts or layout changes
 * Customize the UI by
   * Changing colors of linked borders and border segments
-
-## Upcoming
-
-<small style="opacity:0.5">Ordered with priority top to bottom:</small>
-
-* Virtual KVM - Connect multiple devices using Cursr allowing you to create links between displays of connected devices, interchangeably use mouse and/or keyboard from either of the devices to control all connected devices, share files and keyboard, use touchpad gestures of the OS touchpad belongs too across all devices and more.
-* Shortcuts to control cursor allowing you to create key bindings to move cursor to specific position on screen or completely control cursor/mouse with keyboard
+* Software KVM - Connect multiple devices with Cursr to:
+  * Share mouse, keyboard and clipboard between devices
+  * Interchangeably use any connected mouse and keyboard on the go, no restricions for using only mouse/keyboard of 'main/server' device
 
 # Roadmap - What's next?
 
-> The Roadmap migh be affected by any new issues/bugs if they will occur.
+> The Roadmap migh be affected by any exiting or new issues/bugs if they will occur.
 
-### Second half of 2022
+<small style="opacity:0.5">Ordered without priority:</small>
 
-Some improvements of using Cursr around/near edges.
+* Bug fixes currently affecting users
+* Feature to prevent mouse crossing a border when it's undesired, example when trying to move window to edge or click a button close to display edge
+* Performance imporvements
+* More UI customization options
+* Shortcuts to control cursor allowing you to create key bindings to move cursor to specific position on screen or completely control cursor/mouse with keyboard
+* Setups usage optimizations
+* Segments for blocking
+* [cursr.app](cursr.app) site update
+* Improving Cursr discoverability and potentially marketing
+* System for sharing and voting for setups to help users find setup/layout ideas
 
-Virtual KVM for sharing mouse and keyboard, additional features like touchpad gesture usage across all devices, file sharing and other might come at later time depending on how much time it will take to develop mouse and keyboard sharing. KVM will also come with display identification graphics and potentially allow users to move display around in Cursr.
-
-Potentially add in some of the shortcuts to control cursor before or together with the release of Virtual KVM.
-
-Secondary/Background focus is further improving Cursr performance, as well as improving SEO and discoverability of Cursr site, initially Cursr was not advertised or SEO optimized to first gather a small user base and resolve any bugs, as Cursr is now much more stable, I am working on improving it's discoverability and potentially marketing.
 
 ### Other
 
-These might fit in at some point in 2022 or would be done/looked into later in likely priority of top to bottom
+> Currently there are about 150+ tasks in backlog for Cursr, ranging anywhere from 10min to 100h+ (for more complex new feature ideas that I'm not ready to publish yet) for estimated completion time. The list below contains just a few generic examples that are more likely to be implemented within a years time.
 
+* Bug report form in App and in Website
 * Make Cursr available on Mac App Store, Windows Store and Snap Store (Linux)
 * Draw overlay/preview of borders, segments and links over the top of whole screens
-* Allow to invert axis of the border/segment link, currently mouse position is only mapped from bottom to top and from left to right
-* Cursor control shortcuts
 * Cloud sync
 * Allow changing display layout from withing the app instead of having to open display settings of the operating system
 * Look into allowing to change/adjust cursor speed size on different resolution screens (seems to be mostly relevant to Linux users)
-* If there will be enough interest/requests - open source free tier source code
+* Rewrite Cursr from Electron to Tauri and Rust, this should provide a good performance boost and reduce the package size of Cursr
 
